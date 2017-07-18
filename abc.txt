@@ -1,2 +1,6 @@
 Hi this is git
+<<<<<<< HEAD
 i want to see what's next
+=======
+no i love this
+>>>>>>> new
